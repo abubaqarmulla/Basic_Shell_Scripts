@@ -1,5 +1,5 @@
-Linux Production Shell Scripts
-1. File Backup Script:
+# Linux Production Shell Scripts
+#  1. File Backup Script:
 #!/bin/bash
 backup_dir="/path/to/backup"
 source_dir="/path/to/source"
